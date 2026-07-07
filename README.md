@@ -1,67 +1,114 @@
 <h1 align="center">🎀 Hi 👋, I'm Shreshthi Singh Rajput 🌸</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF69B4&lines=Creative+Frontend+and+Backend+Developer;Passionate+about+Learning+and+Creating!" />
-</h3>
-
-<img align="right" alt="Coding Girl" width="400" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif">
-
-<p align="left"> 
-    <img src="https://komarev.com/ghpvc/?username=Shreshthi06&label=Profile%20views&color=ff69b4&style=flat" alt="Shreshthi06" />
-</p>
-
-<div align="left">
-
-- 🚀 I'm currently learning **ExpressJS**
-
-- 💭 Ask me about **Python**
-
-- 📧 Reach me at **shreshthisinghrajput06@gmail.com**
-
-- ✨ Fun fact: **I believe creativity makes the world better!**
-
-</div>
-
-<h3 align="left">💌 Connect with me:</h3>
-<p align="left">
-    <a href="https://www.linkedin.com/in/shreshthi-singh-rajput-6a18752a5/" target="blank">
-        <img align="center" src="https://img.icons8.com/fluent/48/000000/linkedin.png" alt="LinkedIn" height="30" width="40" />
-    </a>
-    <a href="https://instagram.com" target="blank">
-        <img align="center" src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram" height="30" width="40" />
-    </a>
-</p>
-
-<h3 align="left">🛠️ Languages and Tools:</h3>
-<div align="left"> 
-    <img src="https://img.shields.io/badge/bootstrap-%23FFB6C1.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap"/>
-    <img src="https://img.shields.io/badge/c-%23FF69B4.svg?style=for-the-badge&logo=c&logoColor=white" alt="c"/>
-    <img src="https://img.shields.io/badge/c++-%23FF69B4.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="cplusplus"/>
-    <img src="https://img.shields.io/badge/css3-%23FF69B4.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-    <img src="https://img.shields.io/badge/express.js-%23FF69B4.svg?style=for-the-badge&logo=express&logoColor=white" alt="express"/>
-    <img src="https://img.shields.io/badge/html5-%23FF69B4.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5"/>
-    <img src="https://img.shields.io/badge/javascript-%23FF69B4.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="javascript"/>
-    <img src="https://img.shields.io/badge/MongoDB-%23FF69B4.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb"/>
-    <img src="https://img.shields.io/badge/mysql-%23FF69B4.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
-    <img src="https://img.shields.io/badge/node.js-%23FF69B4?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs"/>
-    <img src="https://img.shields.io/badge/Postman-%23FF69B4?style=for-the-badge&logo=postman&logoColor=white" alt="postman"/>
-    <img src="https://img.shields.io/badge/python-%23FF69B4?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-    <img src="https://img.shields.io/badge/tailwindcss-%23FF69B4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind"/>
-</div>
-
-<h2 align="center">📊 GitHub Statistics</h2>
-
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shreshthi06&show_icons=true&locale=en&layout=compact&theme=material-palenight" alt="Shreshthi06" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3500&pause=1000&color=FF69B4&center=true&vCenter=true&width=650&lines=Artificial+Intelligence+%26+Data+Science+Student;Full+Stack+MERN+Developer;AI+%7C+Machine+Learning+Enthusiast;Hackathon+Lover+%F0%9F%92%96;Always+Learning+New+Things+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Shreshthi06&show_icons=true&locale=en&theme=material-palenight" alt="Shreshthi06" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreshthi06&theme=material-palenight" alt="Shreshthi06" />
+  <img src="https://komarev.com/ghpvc/?username=Shreshthi06&label=Profile+Views&color=ff69b4&style=for-the-badge" alt="Profile Views" /> &nbsp;
+  <img src="https://img.shields.io/github/stars/Shreshthi06?style=for-the-badge&color=ff69b4" alt="Stars" />
 </p>
 
 ---
-<h3 align="center">Thanks for visiting! 🙏💖</h3>
+
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h2>🌸 About Me</h2>
+      <ul>
+        <li>🎓 B.Tech in <b>Artificial Intelligence & Data Science</b></li>
+        <li>💻 Passionate <b>Full Stack MERN Developer</b></li>
+        <li>🤖 Exploring <b>Artificial Intelligence & Machine Learning</b></li>
+        <li>🏆 SIH 2025 College Level Qualifier</li>
+        <li>🥈 First Runner-Up at <b>Nirmaan 2025 National Hackathon</b></li>
+        <li>🌱 Currently learning <b>Express.js, Deep Learning & System Design</b></li>
+        <li>💬 Ask me about <b>Java, Python, MERN Stack & DSA</b></li>
+        <li>📫 Reach me at <a href="mailto:shreshthisinghrajput06@gmail.com"><b>shreshthisinghrajput06@gmail.com</b></a></li>
+        <li>⚡ Fun Fact: <b>Creativity + Code = Magic ✨</b></li>
+      </ul>
+    </td>
+    <td valign="top" width="40%" align="center">
+      <img alt="Coding Girl" width="320" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" style="border-radius: 10px; margin-top: 20px;" />
+    </td>
+  </tr>
+</table>
+
+---
+
+<h2 align="center">🌐 Connect With Me</h2>
+<p align="center">
+  <a href="https://www.linkedin.com/in/shreshthi-singh-rajput-6a18752a5/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
+  </a> &nbsp;
+  <a href="mailto:shreshthisinghrajput06@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Gmail" />
+  </a> &nbsp;
+  <a href="https://github.com/Shreshthi06" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" height="45" alt="Github" />
+  </a>
+</p>
+
+---
+
+<h2 align="center">💻 Tech Stack</h2>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,python,c,js,html,css,react,nodejs,express,mongodb,mysql,git,github,vscode,postman,bootstrap,tailwind,tensorflow,pytorch,opencv,linux&perline=8" alt="Tech Stack" />
+</p>
+
+---
+
+<h2 align="center">🚀 Featured Projects</h2>
+
+<center>
+
+| Project | Description |
+| :--- | :--- |
+| 🏥 **Smart Medical System** | AI-powered healthcare management platform |
+| 🤖 **AI Misuse Detection** | Chrome Extension for harmful prompt detection |
+| 🌾 **Sinchita Rover** | Smart Precision Irrigation Robot |
+| 🌦️ **Weather Forecast App** | React Weather Dashboard |
+| 🌐 **Portfolio Website** | Responsive Personal Portfolio |
+
+</center>
+
+---
+
+<h2 align="center">🏆 Achievements</h2>
+
+- 🥈 **First Runner-Up** – Nirmaan 2025 National Hackathon
+- 💡 **SIH 2025** College Level Qualifier
+- ⭐ LeetCode Rating **1591**
+- 🏅 Gold Medalist in **Chess**
+- 🏅 Gold Medalist in **Drop Roball**
+- ☁️ **Google Cloud Arcade** Facilitator
+
+---
+
+<h2 align="center">📈 Contribution Snake</h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shreshthi06/Shreshthi06/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</p>
+
+---
+
+<h2 align="center">💖 Random Dev Quote</h2>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</p>
+
+---
+
+<h2 align="center">☕ Support Me</h2>
+<p align="center">
+  <a href="https://github.com/Shreshthi06" target="_blank">
+    <img src="https://img.shields.io/badge/Give%20a%20⭐%20to%20my%20Repositories-ff69b4?style=for-the-badge" alt="Support" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <b>✨ "Code with Logic, Build with Passion, Learn without Limits." ✨</b>
+</p>
+
+<h3 align="center">💖 Thanks for Visiting 💖</h3>
